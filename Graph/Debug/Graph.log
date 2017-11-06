@@ -1,0 +1,8 @@
+﻿  Calculation.cpp
+c:\project\graph\graph\calculation.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\project\graph\graph\calculation.cpp(46): warning C4805: '!=': unsafe mix of type 'double' and type 'bool' in operation
+c:\project\graph\graph\calculation.cpp(176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project\graph\graph\calculation.cpp(193): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\project\graph\graph\calculation.cpp(197): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Graph.vcxproj -> C:\Project\Graph\Debug\Graph.exe
+  Graph.vcxproj -> C:\Project\Graph\Debug\Graph.pdb (Partial PDB)
